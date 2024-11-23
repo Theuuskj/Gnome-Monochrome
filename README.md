@@ -1,11 +1,16 @@
 # Gnome-Monochrome
 
 this is my gnome config, hope yall like :D
-My post on r/unixporn: https://www.reddit.com/r/unixporn/comments/1gxm2ls/gnome_i_think_this_is_monochrome/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+My post on r/unixporn:
+
+https://www.reddit.com/r/unixporn/comments/1gxm2ls/gnome_i_think_this_is_monochrome/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 main/gnome shell theme(orchis gtk theme):https://www.gnome-look.org/p/1357889/
+
 icon pack(papirus):https://www.gnome-look.org/p/1166289
+
 terminal(Alacritty):https://github.com/alacritty/alacritty
+
 extension:https://extensions.gnome.org/extension/19/user-themes/
 
 some printscreens:
