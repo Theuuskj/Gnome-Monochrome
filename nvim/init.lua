@@ -1,3 +1,4 @@
+--REMEMBER TO USE PACKER.
 require('packer').startup(function(use)
   use 'goolord/alpha-nvim'
 end)
