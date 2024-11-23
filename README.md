@@ -7,7 +7,7 @@ https://www.reddit.com/r/unixporn/comments/1gxm2ls/gnome_i_think_this_is_monochr
 
 main/gnome shell theme(orchis gtk theme):https://www.gnome-look.org/p/1357889/
 
-icon pack(papirus):https://www.gnome-look.org/p/1166289
+icon pack(papirus white folders!!!):https://www.gnome-look.org/p/1166289
 
 terminal(Alacritty):https://github.com/alacritty/alacritty
 
