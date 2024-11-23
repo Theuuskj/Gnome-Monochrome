@@ -1,0 +1,45 @@
+[window]
+dimensions = { columns = 90, lines = 30 }
+padding = { x = 10, y = 10 }
+decorations = "full"
+opacity = 0.90
+title = "Alacritty - Terminal Minimalista"
+
+
+[colors]
+[colors.primary]
+background = "#000000"
+foreground = "#D8D8D8"
+
+[colors.cursor]
+text = "#121212"
+cursor = "#D8D8D8"
+
+[colors.selection]
+text = "#D8D8D8"
+background = "#000000"
+[colors.normal]
+black = "#323232"
+red = "#4A4A4A"
+green = "#5A5A5A"
+yellow = "#6A6A6A"
+blue = "#7A7A7A"
+magenta = "#8A8A8A"
+cyan = "#FFFFFF"
+white = "#FFFFFF"
+
+[colors.bright]
+black = "#323232"
+red = "#4A4A4A"
+green = "#5A5A5A"
+yellow = "#6A6A6A"
+blue = "#7A7A7A"
+magenta = "#8A8A8A"
+cyan = "#FFFFFF"
+white = "#FFFFFF"
+[cursor]
+style = "Block"
+
+[scrolling]
+history = 10000
+multiplier = 3
